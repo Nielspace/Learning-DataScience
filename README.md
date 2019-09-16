@@ -33,4 +33,5 @@ With massive computer power we can now use computer science to mine the data.
 Hence, **Data Science = Data Mining + Computer Science**
 
 <hr>
+
 ![](images/datascience.png)
