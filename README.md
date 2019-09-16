@@ -1,3 +1,5 @@
+# About this Repo
+
 Learning DataScience is tutorial repository teaching you how to learning the fundamental concepts of data science. Ofcourse 
 learning anything new will take time and mastering it may take years as well. The key point is to be consistent and to record
 your progress month by month. 
@@ -39,6 +41,6 @@ Where, data mining includes statistics, visualisation and computer science invol
 ![](images/datasciencecomponents.png)
 
 
-<hr>
+# The Role of a Data Scientist
 
 ![](images/datascience.png)
