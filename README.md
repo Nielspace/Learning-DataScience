@@ -36,7 +36,7 @@ Hence, **Data Science = Data Mining + Computer Science**
 
 Where, data mining includes statistics, visualisation and computer science involves linear algebra, probability and algorithms.
 
-![](images/datasciencecomponents)
+![](images/datasciencecomponents.png)
 
 
 <hr>
