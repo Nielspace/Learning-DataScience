@@ -7,11 +7,10 @@ your progress month by month.
 The timeline I am creating will give you a simple idea as to how to structure your data science cirruculum. And even if you miss
 out on anything you can revisit this repo to get back on track.
 
-<hr>
-
-![](images/camera-coffee-composition-1509428.jpg)
 
 # What is Data Science?
+
+![](images/camera-coffee-composition-1509428.jpg)
 
 By *Data Science*, we mean almost anything that has to do with *data*: collecting the data, analysing,
 modelling. Yet the most importtant part is the application. Like machine learning. 
