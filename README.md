@@ -44,4 +44,21 @@ Where, data mining includes statistics, visualisation and computer science invol
 
 # The Role of a Data Scientist
 
+Well, it depends.
+
+But, before that let’s look at the hierarchy of a data scientist.
+
 ![](images/datascience.png)
+
+Basically the role of a data scientist is to do the following task:
+
+- Explore/Transform
+- Aggregate/Label
+- Learn/Optimise
+
+The above role is called a Data Analyst who deals mostly with Exploratory Analysis which means to find insightful patterns and hidden meaning from the data.
+
+People who usually handles AI and deep learning part are mostly researchers also known as “research scientist”. Mostly people who are done with their masters and Phd get this role.
+
+**Moving/storing** is taken care by the data engineers and software developer takes care of the data collection part.
+I just want to make a note that the job titles may vary from company to company depending upon the size and also the financial infrastructure.
