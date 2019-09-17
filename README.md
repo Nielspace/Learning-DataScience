@@ -9,7 +9,7 @@ out on anything you can revisit this repo to get back on track.
 
 <hr>
 
-![](image/camera-coffee-composition-1509428.jpg)
+![](images/camera-coffee-composition-1509428.jpg)
 
 # What is Data Science?
 
