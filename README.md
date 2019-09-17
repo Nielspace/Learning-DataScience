@@ -9,6 +9,8 @@ out on anything you can revisit this repo to get back on track.
 
 <hr>
 
+![](image/camera-coffee-composition-1509428.jpg)
+
 # What is Data Science?
 
 By *Data Science*, we mean almost anything that has to do with *data*: collecting the data, analysing,
