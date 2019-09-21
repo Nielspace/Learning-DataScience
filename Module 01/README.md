@@ -13,5 +13,5 @@ We will follow the process that is decribed in the image below
 
 ## Week 2 
 
-03. Understanding Statictical Methods part 1
-04. Understanding Statictical Methods part 2
+03. Understanding Statistical Methods part 1
+04. Understanding Statistical Methods part 2
