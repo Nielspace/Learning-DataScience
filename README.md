@@ -12,8 +12,8 @@ out on anything you can revisit this repo to get back on track.
 
 ![](images/camera-coffee-composition-1509428.jpg)
 
-By *Data Science*, we mean almost anything that has to do with *data*: collecting the data, analysing,
-modelling. Yet the most importtant part is the application. Like machine learning. 
+By *Data Science*, we mean almost anything that has to do with *data*: **collecting the data, analysing,
+modelling**. Yet the most importtant part is the application. Like machine learning. 
 
 Eventhough the Artificial Intelligence was born in 1956. The research almost hit a road block. Like dead-end. Suddenly the 
 shadow of dawn stood still in the vicinity of a great break through. 
