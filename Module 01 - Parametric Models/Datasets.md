@@ -25,7 +25,6 @@ I will be providing the link of the datasets along with the order of listing.
     - <a href='https://www.kaggle.com/shazadudwadia/supermarket'>Grocery Dataset</a>
 
 4. Data Visualisation 
-    - ![Stack Overflow Developer Survey, 2017](https://www.kaggle.com/stackoverflow/so-survey-2017)
     - <a href='https://www.kaggle.com/shazadudwadia/supermarket'>Grocery Dataset</a>
-    <a href='https://www.kaggle.com/kaggle/meta-kaggle'>Kaggle developer Survey</a>
+    - <a href='https://www.kaggle.com/kaggle/meta-kaggle'>Kaggle developer Survey</a>
     - <a href='https://www.kaggle.com/scoleman/spacex-launch-data'>SpaceX</a>
