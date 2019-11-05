@@ -11,9 +11,9 @@ Because, we don't have to struggle with pip install and what not. Especially the
 I will be providing the link of the datasets along with the order of listing. 
 
 1. Regression
-    - ![Diamonds](https://www.kaggle.com/shivam2503/diamonds)
-    - ![Automobile](https://www.kaggle.com/uciml/autompg-dataset)
-    - ![Boston House Pricing](https://www.kaggle.com/apratim87/housingdata#housingdata.csv)
+    - <a href='https://www.kaggle.com/shivam2503/diamonds'>Diamonds</a>
+    - <a href='https://www.kaggle.com/uciml/autompg-dataset'>Automobile</a>
+    - <a href='https://www.kaggle.com/apratim87/housingdata#housingdata.csv'>Boston House Pricing</a>
 
 2. Classification
     - Iris Species (can be found in sklearn module)
@@ -21,12 +21,11 @@ I will be providing the link of the datasets along with the order of listing.
     - MNIST ((can be found in sklearn module))
 
 3. Essemble methods
-    - ![Blue Book for bulldozer](https://www.kaggle.com/c/bluebook-for-bulldozers)
-    - ![Grocery Dataset](https://www.kaggle.com/shazadudwadia/supermarket)
+    - <a href='https://www.kaggle.com/c/bluebook-for-bulldozers'>Blue Book for bulldozer</a>
+    - <a href='https://www.kaggle.com/shazadudwadia/supermarket'>Grocery Dataset</a>
 
 4. Data Visualisation 
     - ![Stack Overflow Developer Survey, 2017](https://www.kaggle.com/stackoverflow/so-survey-2017)
-    - ![Kaggle developer Survey](https://www.kaggle.com/kaggle/meta-kaggle)
-    - ![SpaceX](https://www.kaggle.com/scoleman/spacex-launch-data)
-
-5. 
+    - <a href='https://www.kaggle.com/shazadudwadia/supermarket'>Grocery Dataset</a>
+    <a href='https://www.kaggle.com/kaggle/meta-kaggle'>Kaggle developer Survey</a>
+    - <a href='https://www.kaggle.com/scoleman/spacex-launch-data'>SpaceX</a>
