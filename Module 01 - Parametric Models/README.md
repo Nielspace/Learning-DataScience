@@ -6,12 +6,15 @@ We will follow the process that is decribed in the image below
 
 ![](../images/Process.png)
 
-## Week 1 
+## Module 1 Parametric Model -- Part 1 
 
 01. Into Machine Learning with Linear Regression
-02. Into Machine Learning with Logistic Regression
+02. Simple Linear Regression
+03. Multiple Linear Regression
+04. Polymonial Linear Regression
+05. Boston house pricing
+06. Non-Linear Regression
 
-## Week 2 
+## Module 2 Parametric Model -- Part 2 
 
-03. Intro to Random Forrest
-04. Deep Dive into Random Forrest
+03. Into Machine Learning with Logistic Regression
