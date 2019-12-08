@@ -7,6 +7,7 @@ your progress month by month.
 The timeline I am creating will give you a simple idea as to how to structure your data science cirruculum. And even if you miss
 out on anything you can revisit this repo to get back on track.
 
+------
 
 # What is Data Science?
 
