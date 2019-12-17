@@ -1,4 +1,4 @@
-# About this Repo
+# About this Repository
 
 Learning DataScience is tutorial repository teaching you how to learning the fundamental concepts of data science. Ofcourse 
 learning anything new will take time and mastering it may take years as well. The key point is to be consistent and to record
