@@ -9,7 +9,7 @@ out on anything you can revisit this repo to get back on track.
 
 ------
 
-# What is DataScience?
+# What is Data Science?
 
 ![](images/camera-coffee-composition-1509428.jpg)
 
